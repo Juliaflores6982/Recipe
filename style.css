@@ -1,0 +1,57 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.one {
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.two {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.three {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 20px;
+    border: 2px dotted pink;
+    font-size: 20px;
+}
+
+.onemore {
+    background-color: rgb(101, 102, 105);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 40px;
+    font-color:white;}
+
+.imgdiv{
+    display: flex;
+    background-color: lightgray;
+    border: 2px solid black;
+    padding: 50px 25px 50px 25px;
+    margin: 50px 25px 50px 25px;
+    justify-content: space-around;
+
+
+}
+
+
+
+
+
+
+
